@@ -1,0 +1,9 @@
+# AttentionRSA. Tested with Python 3.13 and the versions given in the comments.
+torch                 # 2.14.1
+numpy                 # 2.5.3
+scipy                 # 1.17.1
+scikit-learn          # 1.9.1
+pandas                # 3.0.5
+astropy               # 8.0.1
+matplotlib            # 3.11.2; figure of test examples written by train_copies.py
+lenstronomy==1.14.2   # simulate.py; the same version as for the simulated images of EUCLID-SAGE

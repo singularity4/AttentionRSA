@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+results/
+rdms/
+comparisons/
+radius_training_*.npz
+modeling_lens_mass.csv
