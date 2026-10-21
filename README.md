@@ -6,8 +6,8 @@ Einstein Radius in Strong Lens Images*" (in preparation).
 
 <img src="figures/attention_unet_radius_mini.png" alt="UNet-Radius-mini and Attention UNet-Radius-mini" width="760">
 
-The U-Nets are pretrained on simulated images and then fine-tuned on the real *Euclid* Q1 stamps of the
-[EUCLID-SAGE](https://github.com/singularity4/EUCLID-SAGE) benchmarks. Their layers are compared with
+The U-Nets are pretrained on simulated images and fine-tuned on the real *Euclid* Q1 stamps of the
+[EUCLID-SAGE](https://github.com/singularity4/EUCLID-SAGE) benchmarks. Network layers are compared with
 representational similarity analysis (RSA), using representational dissimilarity matrices (RDMs).
 
 | Model | Filters (first block to bottleneck) | Outputs | Parameters |
