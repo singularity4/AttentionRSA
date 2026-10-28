@@ -1,7 +1,7 @@
 # AttentionRSA
 
 U-Net models with an attention mechanism for strong gravitational lens classification and Einstein radius estimation
-in *Euclid* images, and the code of the experiments for "*Attention to Physics: Interpreting Transfer Learning of the
+in *Euclid* images, and the code of the experiments for "*Attention to Physics: Interpretable Transfer Learning of the
 Einstein Radius in Strong Lens Images*" (in preparation).
 
 <img src="figures/attention_unet_radius_mini.png" alt="UNet-Radius-mini and Attention UNet-Radius-mini" width="760">
